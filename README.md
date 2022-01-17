@@ -1,5 +1,7 @@
 # Python Notebook
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/howiezhao/python-notebook/master)
+
 个人学习 Python 的过程中所整理的一些笔记，采用 Jupyter Notebook 格式书写，绝大部分内容来自《流畅的 Python》。
 
 ## 目录
